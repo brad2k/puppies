@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/brad2k/puppies"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
